@@ -1,4 +1,4 @@
-LaTeX-Project-Management
+On Opposites
 ========================
 
-LaTeX Project Management templates and styles
+A paper I wrote for a class.
