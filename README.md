@@ -1,4 +1,4 @@
-# Opposites
+# Whitepaper on Opposites using Quantitative Approach
 
 Whitepaper on the topic of whether opposites (up/down, cat/dog) exist in the mainstream perspective.
 
